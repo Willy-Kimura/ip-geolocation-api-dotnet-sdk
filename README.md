@@ -1,8 +1,15 @@
 # IP Geolocation API .NET SDK
 
+> This is a port of the official [IP Geolocation API](https://github.com/IPGeolocation/ip-geolocation-api-dotnet-sdk) that provides support for [.NET Framework 4.0](https://dotnet.microsoft.com/download/dotnet-framework/net40) and above with some few additions. The official library only supports [.NET Core](https://dotnet.microsoft.com/download).
+>
+> Major additions include:
+>
+> - The `ToString()` method will now return the JSON response in string format.
+> - Packed  `Newtonsoft.Json` with the assembly for easier portability.
+
 ## Introduction
 
-[IPGeolocation API](https://ipgeolocation.io) is the solution to identify country code (ISO2 and ISO3 standard), country name, continent code, continent name, country capital, state/province, district, city, zip code, latitude and longitude of city, is country belongs to Europian Union, calling code, top level domain (TLD), languages, country flag, internet service provider (ISP), connection type, organization, geoname ID, currency code, currency name, time zone ID, time zone offset, current time in the time zone, is time zone in daylight saving time, and total daylight savings. This document provides important information to help you get up to speed with IPGeolocation API using IP Geolocation API C# SDK.
+[IPGeolocation API](https://ipgeolocation.io) lets you identify country code (ISO2 and ISO3 standard), country name, continent code, continent name, country capital, state/province, district, city, zip code, latitude and longitude of city, if a country belongs to European Union, calling code, top level domain (TLD), languages, country flag, Internet Service Provider (ISP), connection type, organization, geographical name ID, currency code, currency name, time zone ID, time zone offset, current time in the time zone, is time zone in daylight saving time, and total daylight savings. This document provides important information to help you get up to speed with IPGeolocation API using IP Geolocation API C# SDK.
 
 Developers can use this C# SDK for software and web projects related to, but not limited to:
 
