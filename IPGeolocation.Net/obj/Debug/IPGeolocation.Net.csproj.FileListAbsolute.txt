@@ -7,3 +7,8 @@ C:\Users\Willy\Source\Repos\Others\ip-geolocation-api-dotnet-sdk\IPGeolocation.N
 C:\Users\Willy\Source\Repos\Others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.csproj.CopyComplete
 C:\Users\Willy\Source\Repos\Others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.dll
 C:\Users\Willy\Source\Repos\Others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.pdb
+C:\Users\VitalRay\source\repos\others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\bin\Debug\IPGeolocation.Net.dll
+C:\Users\VitalRay\source\repos\others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\bin\Debug\IPGeolocation.Net.pdb
+C:\Users\VitalRay\source\repos\others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.csproj.CoreCompileInputs.cache
+C:\Users\VitalRay\source\repos\others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.dll
+C:\Users\VitalRay\source\repos\others\ip-geolocation-api-dotnet-sdk\IPGeolocation.Net\obj\Debug\IPGeolocation.Net.pdb

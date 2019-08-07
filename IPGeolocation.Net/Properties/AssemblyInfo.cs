@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("IPGeolocation.Net")]
 [assembly: AssemblyDescription("IP Geolocation API for .NET, used to provide IP Geolocation services.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Willy Kimura.")]
+[assembly: AssemblyCompany("IPGeolocation")]
 [assembly: AssemblyProduct("IPGeolocation.Net")]
-[assembly: AssemblyCopyright("Copyright © 2019")]
-[assembly: AssemblyTrademark("A product of Willy Kimura.")]
+[assembly: AssemblyCopyright("Copyright © 2019, IPGeolocation.")]
+[assembly: AssemblyTrademark("© IPGeolocation.")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
